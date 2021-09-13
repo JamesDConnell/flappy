@@ -15,7 +15,7 @@ PausedParams = {}
 PIPE_SPEED = 60
 PIPE_WIDTH = 70
 PIPE_HEIGHT = 288
-Test = "dsd"
+
 BIRD_WIDTH = 38
 BIRD_HEIGHT = 24
 
